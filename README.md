@@ -1,4 +1,4 @@
-# TaskAsyncAwait
+# Task Async Await
 
 Sobre o projeto: Demonstração de Task, async e await em C#
 Este projeto é um aplicativo de console em C# (.NET 8, Visual Studio 2022) que demonstra o uso de tarefas assíncronas com Task, async e await. O objetivo é mostrar como executar operações potencialmente demoradas de forma não bloqueante, permitindo melhor performance e experiência do usuário, mesmo em aplicativos de linha de comando.
